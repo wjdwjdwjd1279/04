@@ -13,4 +13,5 @@ int main(int argc, char *argv[]) {
 	printf("The time is %i : %i : %i \n", a/3600 , ((a%3600)/60) , a%60);
 			
 	return 0;
+	
 }
